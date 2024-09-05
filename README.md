@@ -1,1 +1,1 @@
-Ponto de venda - phph
+Ponto de venda - php
